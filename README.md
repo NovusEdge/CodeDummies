@@ -35,6 +35,7 @@ You can find several different references and resources for your use. Feel free 
 -  [Learn C++](https://www.learncpp.com/)
 -  [Introduction to llvm](https://llvm.org/docs/GettingStarted.html)
 -  [MSDN reference](https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-160)
+-  [C Tutorial by @Fermi](https://github.com/NovusEdge/CodeDummies/tree/master/CTutorials)
 
 
 ### Go:
@@ -48,4 +49,4 @@ You can find several different references and resources for your use. Feel free 
 -  [Begineer's Guide](https://wiki.python.org/moin/BeginnersGuide)
 -  [Python By Example](https://www.learnbyexample.org/python/)
 -  [Python OOP @ Programmiz](https://www.programiz.com/python-programming/object-oriented-programming)
--  [Python Tutorial by @Fermi](https://github.com/NovusEdge/CodeDummies/tree/test/PyTutorials)
+-  [Python Tutorial by @Fermi](https://github.com/NovusEdge/CodeDummies/tree/master/PyTutorials)
