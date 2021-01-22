@@ -2,7 +2,7 @@
 
 /*
 Functions are blocks of code that may be executed one or more times while running some code.
-they usually consist of an identifier ( like a variable ), arguments/parameters, a return-type and a function body.
+they usually consist of an identifier ( like in a variable ), arguments/parameters, a return-type and a function body.
 
 Syntax for declaring a function is:
 
@@ -28,7 +28,7 @@ The compiler runs the code written in the main function when the code's executed
 
 Calling a function refers to when you have the program "run" the function i.e. whatever is in the function body.
 
-To call a function (say, someFunction), we use the following:
+To call a function (say, someFunction), we use:
 someFunction()
 
 Here's some examples to help you understand:
