@@ -3,10 +3,10 @@
 
 # Example:
 
-#     /------------ Condition
+#     /------------| Condition
 #     v
 if (x < 0):
-    x = 0  # <------ Action taken w.r.t condition
+    x = 0  # <------ |Action taken w.r.t condition
     print('Negative changed to zero')
 elif x == 0:
     print('Zero')
@@ -15,4 +15,4 @@ elif x == 1:
 else:
     print('More')
 
-#  basically, conditionals help u in executing blocks of code having a structure like :: "IFTTT" or "IF This Then That"
+# Basically, conditionals help u in executing blocks of code having a structure like :: "IFTTT" or "IF This Then That"
