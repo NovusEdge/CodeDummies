@@ -5,19 +5,19 @@
 # syntax for declaring variables:
 
 #? identifier = value
-# example: 
+# example:
 
 
 
 
-anInteger = 100 #* <------ The value assigned is just called "value"
+anInteger = 100 #* <------| The value assigned is just called "value"
 #* ^
-#* \ --------- the "name" of the variable is called the "identifier"
+#* \ ---------| the "name" of the variable is called the "identifier"
 
-print( anInteger ) #* <------ print is a "function" (we'll get to those later)
+print( anInteger ) #* <------| print is a "function" (we'll get to those later)
 #*        ^
-#*        \---------- The identifier "points" to it's value and thus it is 100 that's
-#*                    printed and not something else
+#*        \----------| The identifier "points" to it's value and thus it is 100 that's
+#*                   | printed and not something else
 
 #-------------------------------------------------------------------------------------------------------------------
 
