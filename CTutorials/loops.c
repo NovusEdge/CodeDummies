@@ -37,5 +37,58 @@ int main() {
                //                     | ( NOTE: use ctrl+C to terminate the program )
     }
 
+    /*
+    do-while loop:
 
+    Syntax:
+
+    do {
+        ...
+        code_statements
+        ...
+    } while (condition);
+
+    example:
+    */
+    printf("\n\n"); // just adding newlines for readability in the console output
+
+    var = 0; // <---------------------| We'll just use the perviously declared dummy variable.
+             //                       | reassigned the value 0 to the variable for reusing it.
+
+    do {
+
+        printf("%d, ", var);
+        var++; // <------------------------| yet again, just incrementing "var" and printing it.
+
+    } while( var < 10 );
+//              ^________________________________| As we can see, the condition is tested for AFTER the loop body is executed.
+//                                               | however, in the simple while-loop, the condition was checked for BEFORE
+//                                               | the loop body was executed.
+
+    printf("\n\n");
+
+    /*
+    for loop:
+
+    Syntax:
+    for ( dummy-var; condition; increment/decrement ) {
+        ...
+        code_statements
+        ...
+    }
+
+    example:
+    */
+//                                              |------------------------------increment/decrement.
+//                                  |-----------|-------------------| Condition.
+//              |-------------------|-----------|---------| Dummy variable declaration.
+//              v                   v           v
+    for ( int dummy_var = 0; dummy_var < 10; dummy_var++) {
+
+        printf("%d, ", dummy_var);
+
+    }
+
+    // Note that we dont really require an increment/decrement statement IN the loop-body, but it's just defined in the
+    // loop declaration.
 }
