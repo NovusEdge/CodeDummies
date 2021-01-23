@@ -106,7 +106,7 @@ print("True and True and True ... = ", True and True and True)
 
 print("\nTrue or True = ", True or True)
 print("True or False = ", True or False)
-print("True or False or True ... = ", True or True or True)
+print("True or False or True ... = ", True or False or True)
 
 print("\nnot True = ", not True)
 print("not False = ", not False)
@@ -146,3 +146,6 @@ Next up, there's the Bitwise operators:
 # They are:
 # 1) is <---------- True if the operands are identical (refer to the same object)
 # 2) in <---------- True if value/variable is found in the sequence
+
+
+# NOTE: Here's an operator precedence chart for reference: https://docs.python.org/3/reference/expressions.html#operator-precedence
