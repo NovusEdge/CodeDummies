@@ -17,14 +17,14 @@ int main() {
 
     while( condition ) {
         ...
-        code_statements
+        code_statements/loop_body
         ...
     }
 
     example:
     */
 
-    int var = 0; // <-------| A dummy variable that will help make the condition for the loop.
+    int var = 0; // <-----------------| A dummy variable that will help make the condition for the loop.
 
 //             /----------------------| This is a sample condition, checking if variable is less than 10.
 //             v                      | if this condition is true, the loop will start and code inside will be executed.
@@ -44,7 +44,7 @@ int main() {
 
     do {
         ...
-        code_statements
+        code_statements / loop_body
         ...
     } while (condition);
 
@@ -52,7 +52,7 @@ int main() {
     */
     printf("\n\n"); // just adding newlines for readability in the console output
 
-    var = 0; // <---------------------| We'll just use the perviously declared dummy variable.
+    var = 1; // <---------------------| We'll just use the perviously declared dummy variable.
              //                       | reassigned the value 0 to the variable for reusing it.
 
     do {

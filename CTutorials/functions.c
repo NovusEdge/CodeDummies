@@ -38,10 +38,10 @@ Here's some examples to help you understand:
 //      /---------------------------------| The identifier is "add_two_numbers"
 //      v
   int add_two_numbers(int a, int b) {
-// ^                    ^_____^___________| "a" and "b" are the arguments/parameters, you can use em in the function
+// ^                    ^-----^-----------| "a" and "b" are the arguments/parameters, you can use em in the function
 // |                                      | and they are "passed into the function" when you call it in the main-function.
 // |
-// |______________________________________| Function's return type is "int"
+// |--------------------------------------| Function's return type is "int"
     return a + b;
 //      ^
 //      |---------------------------------| "return" is a keyword. When you return something from a function,
