@@ -12,6 +12,7 @@ You can find several different references and resources for your use. Feel free 
     - [C And Cpp:](#c-and-cpp)
     - [Go:](#go)
     - [Python:](#python)
+    - [Java:](#java)
 
 ## Math:
 
@@ -50,3 +51,10 @@ You can find several different references and resources for your use. Feel free 
 -  [Python By Example](https://www.learnbyexample.org/python/)
 -  [Python OOP @ Programmiz](https://www.programiz.com/python-programming/object-oriented-programming)
 -  [Python Tutorial by @Fermi](https://github.com/NovusEdge/CodeDummies/tree/master/PyTutorials)
+
+### Java:
+-  [Docs](https://docs.oracle.com/en/java/javase/15/)
+-  [Begineer's Guide](https://docs.oracle.com/javase/tutorial/getStarted/index.html)
+-  [Java By Example](https://javabeginnerstutorial.com/core-java-tutorial/)
+-  [Java @ Programmiz](https://www.programiz.com/java-programming)
+-  [Java Tutorial by @Fermi](https://github.com/NovusEdge/CodeDummies/tree/master/JavaTutorials)
